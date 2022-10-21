@@ -23,4 +23,5 @@ I am experienced with building full-stack web applications (including UI and dat
 I have also have professional experience working as an engineering intern delivering data and automation solutions to optimize operational logistics in the power industry. 
 
 I am on a mission to create user value and I wish to build those scalable systems and empower organizations with data driven decision making. If you would like to learn more about my experiences or even have a chat, you can reach me with email 📫 : akashgajendra2000@gmail.com
+
 Feel free to connect with me on LinkedIn!
