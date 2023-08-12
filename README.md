@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Akash Gajendra and I am a senior Computer Engineering with minors in Cybersecurity and Math.🤓
 I am actively looking for full-time roles starting Sprint 2024. My current interests are software engineering and big data analytics/engineering applications.
 
-I am experienced with building full-stack web applications (including UI and database design), embedded systems and building data pipelines for analytics/ML applications. I have worked as a software engineering co-op @ **Moderna** where I provided software automation support of high throughput pre-clinical operations. I have also had professional experience working as an engineering co-op @ **CenterPoint Energy** delivering data and automation solutions to optimize operational logistics.
+I have worked as a software engineering co-op @ **Moderna** where I provided software automation support of high throughput pre-clinical operations. I have also had professional experience working as an engineering co-op @ **CenterPoint Energy** delivering data and automation solutions to optimize operational logistics. I am experienced with building full-stack web applications (including UI and database design), embedded systems and building data pipelines for analytics/ML applications.
 
 I am on a mission to create user value and I wish to build those scalable systems and empower organizations with data driven decision making. If you would like to learn more about my experiences or just have a chat, you can reach me with email 📫 : akashgajendra2000@gmail.com
 
